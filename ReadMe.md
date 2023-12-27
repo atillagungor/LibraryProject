@@ -13,7 +13,8 @@ This project is a library management system developed using .NET 7 technology wi
 
 ## Technologies Used
 
-• C# .NET Framework
+• C# 
+• .NET Framework
 • Entity Framework Core
 • Web API
 
